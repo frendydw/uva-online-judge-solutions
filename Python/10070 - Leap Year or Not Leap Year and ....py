@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  9 11:14:28 2021
-
-@author: U540843
-"""
-
 test_no = 0
 while True:
     try:

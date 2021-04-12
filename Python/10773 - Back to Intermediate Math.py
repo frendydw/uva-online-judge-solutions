@@ -1,16 +1,10 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  5 14:22:49 2021
-
-@author: U540843
-"""
 import sys
 from math import asin,tan
 scan = lambda : sys.stdin.readline()
 
 test = int(input())
 
-for case in range(1,test+1):
+for case in range(1, test+1):
     d, v, u = map(int, input().split())
     if u<=v or u==0 or v==0:
         print("Case %d: can't determine"%case)

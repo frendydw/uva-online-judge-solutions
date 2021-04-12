@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 15:14:17 2021
-
-@author: U540843
-"""
-
 while True:
     
     try:

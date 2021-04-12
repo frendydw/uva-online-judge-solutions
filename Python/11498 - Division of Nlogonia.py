@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 13:13:52 2021
-
-@author: U540843
-"""
-
 while True:
     n = int(input())
     if n <= 0:

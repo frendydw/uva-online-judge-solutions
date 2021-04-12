@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Apr 11 13:01:37 2021
-
-@author: U540843
-"""
-
 while True:
     try:
         arr = list(map(int, input().split()))

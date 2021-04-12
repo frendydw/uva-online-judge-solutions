@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  8 23:54:36 2021
-
-@author: U540843
-"""
-
 while True:
     try:
         heigh, climb, slide, fatigue = map(int, input().split())

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  5 12:49:40 2021
-
-@author: U540843
-"""
 index = 0
 while True:
     word = input()

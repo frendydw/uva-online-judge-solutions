@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 12:56:12 2021
-
-@author: U540843
-"""
-
 n = int(input())
 index = 1
 

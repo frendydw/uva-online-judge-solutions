@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 12 00:40:24 2021
-
-@author: U540843
-"""
-
 for i in range(int(input())):
     n = int(input())
     arr = list(map(int, input().split()))

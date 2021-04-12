@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 13:27:29 2021
-
-@author: U540843
-"""
-
 flag = 1
 
 while True:

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 16:02:05 2021
-
-@author: U540843
-"""
-
 x = int(input())
 
 for i in range(x):

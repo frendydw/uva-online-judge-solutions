@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 09:48:36 2021
-
-@author: U540843
-"""
-
-
 def cal(n, k):
     if n == 0:
         return 0

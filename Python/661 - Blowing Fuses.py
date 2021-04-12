@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  9 00:41:55 2021
-
-@author: U540843
-"""
-
 seq = 1
 while True:
     if seq > 1:

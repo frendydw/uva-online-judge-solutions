@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  5 12:33:17 2021
-
-@author: U540843
-"""
 import math
 
 while True:

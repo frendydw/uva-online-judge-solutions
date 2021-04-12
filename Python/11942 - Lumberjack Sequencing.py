@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  8 00:33:16 2021
-
-@author: U540843
-"""
-
 n = int(input())
 
 print("Lumberjacks:")

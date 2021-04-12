@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 15:07:37 2021
-
-@author: U540843
-"""        
-    
 while True:
     a, b = map(int, input().split())
     

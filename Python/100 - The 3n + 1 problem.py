@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  1 14:51:13 2021
-
-@author: U540843
-"""
 a = {}
 
 def cal(x):
@@ -37,4 +31,3 @@ while True:
             max_cycle = count
             
     print(i, j, max_cycle)
-    

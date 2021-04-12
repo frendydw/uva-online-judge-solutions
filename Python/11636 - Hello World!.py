@@ -1,19 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 11:19:20 2021
-
-@author: U540843
-"""
-
-# =============================================================================
-# def cal(n,i,paste):
-#     if n == 1:
-#         return 0
-#     if i >= n:
-#         return 1
-#     return paste + cal(n,i,paste)
-# =============================================================================
-
 index = 0
 while True:
     n = int(input())
@@ -31,6 +15,6 @@ while True:
         if i >= n:
             break
     
-    index+=1
+    index += 1
    
     print("Case {}: {}".format(index, paste))

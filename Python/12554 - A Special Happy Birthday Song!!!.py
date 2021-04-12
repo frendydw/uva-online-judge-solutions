@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr  8 19:38:00 2021
-
-@author: U540843
-"""
-
 import math
 
 n = int(input())

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 15:48:40 2021
-
-@author: U540843
-"""
-
 def sumOfDigits(num):
     num = str(num)
     if len(num) == 1:

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 13:53:06 2021
-
-@author: U540843
-"""
-
 index = 1
 while True:
     try:

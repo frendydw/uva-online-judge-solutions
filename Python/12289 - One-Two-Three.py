@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  6 12:57:25 2021
-
-@author: U540843
-"""
-
 n = int(input())
 for i in range(n):
     word = input()

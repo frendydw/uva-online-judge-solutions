@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  5 13:41:55 2021
-
-@author: U540843
-"""
-
 import statistics
 n = int(input())
 while n:

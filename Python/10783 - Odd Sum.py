@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr  5 13:28:34 2021
-
-@author: U540843
-"""
 index = 0
 n = int(input())
 while n:

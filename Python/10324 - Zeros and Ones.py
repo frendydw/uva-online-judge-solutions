@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr  9 09:28:06 2021
-
-@author: U540843
-"""
-
 case = 1
 
 while True:

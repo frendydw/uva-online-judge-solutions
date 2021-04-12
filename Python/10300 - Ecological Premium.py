@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 23:43:43 2021
-
-@author: U540843
-"""
-
 n = int(input())
 
 for i in range(n):
@@ -17,4 +10,3 @@ for i in range(n):
         if b > 0:
             count += a*c
     print(count)        
-    
