@@ -1,3 +1,8 @@
-# UVA ONLINE JUDGE
+# UVA Online Judge Solutions
 
-This repository contains my ACCEPTED solutions for many UVA online judge problems. In many solutions, I have added comments on my solution approach and high level logic so that you can follow it easily. Feel free to read the source codes if you get stuck on some problems for many hours, or use them to generate sample outputs for your testing.
+This repository contains my ACCEPTED solutions for many UVA online judge problems.
+Feel free to read, share, and use the source codes.
+
+Please let me know if you have any feedback or another alternative solutions for my codes, you can contact me at frendydw@gmail.com.
+
+You also can see my latest progress on UVA at https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=15
